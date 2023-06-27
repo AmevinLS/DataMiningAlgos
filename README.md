@@ -15,4 +15,6 @@ After that, use `apriori()`, `print_report()`, `get_closed_frequent()`, `get_max
 First create dataframe of similarities with tuples as columns and index.
 Then use `AHCSolver` and its `ahc()` and `print_history()` methods.
 
-_Author - Nikita Makarevich_
+_Authors:_
+ - _Nikita Makarevich_
+ - _Michał Wiliński_
